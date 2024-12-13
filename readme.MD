@@ -13,7 +13,9 @@ Software maintenance accounts for more than 90% of a software product’s lifecy
 
 ## Stategy
 
-Simplicity (the opposite of complexity https://www.youtube.com/watch?v=SxdOUGdseq4 Ruch Hickey). We spent over 90% of our time bavigating through code, so simpler code (simple as having less options) will be easier to navigate, understand, debug & fix, change, extend. 
+Simplicity (the opposite of complexity https://www.youtube.com/watch?v=SxdOUGdseq4 Ruch Hickey). 
+
+We will make our code so that when a change is needed, we get **instant (almost) feedback about the cost of that change**. How? By having everything mostly unit tested. For that we'll use simplification techniques, such as separation of concerns and designs that are simpler, where components are smaller and do less things (simplicity), thus easier to test, and with a high coverage (80-90%), so when you want to make a change, you make it, run the tests (they should run really fast - unit tests focus) and tell you what you broke. And that will give you an idea of what the cost of doing things that way will be.
 
 ### Base knowledge
 
