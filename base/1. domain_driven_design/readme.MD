@@ -5,7 +5,7 @@ A developer today needs o undestand what the domain of an application is, and ho
 
 
 
-Book recommended: 
+Book recommended: Domain Modelling Made Functional - Scott Wlaschin https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549
 
 Videos to understand the 2 concepts:
 - Domain modelling and DDD  https://www.youtube.com/watch?v=2JB1_e5wZmU
@@ -15,3 +15,4 @@ Videos to understand the 2 concepts:
     * functions with side effects (IO)
     * How should a feature look like (IO-domain-IO)
     * How do all these things get tested?
+    * @todo the rest
