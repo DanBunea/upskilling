@@ -1,5 +1,7 @@
 # Saga Patterns
 
+
+
 Sagas are a pattern for managing distributed transactions through a sequence of local transactions.
 
 ## Types of Sagas
@@ -15,3 +17,6 @@ Sagas are a pattern for managing distributed transactions through a sequence of 
 - Centralized control flow
 - Orchestrator manages the entire transaction
 - Better for complex flows with many participants
+
+
+See: https://www.youtube.com/watch?v=YPbGW3Fnmbc
