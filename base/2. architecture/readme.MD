@@ -4,7 +4,7 @@ Big subject, but we'll delimit it to:
 
 ## Macro architecture
 
-where you have a system composed of many different subsystems 
+where you have a system composed of many different subsystems [Detailed in Distributed Systems](./distributed%20systems/transactional_writes.MD )
 
 ## Mini architecture
 
